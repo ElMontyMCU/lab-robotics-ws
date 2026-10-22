@@ -1,0 +1,4 @@
+string state
+uint64 current_waypoint
+uint64 laps_completed
+float32 battery_percent
